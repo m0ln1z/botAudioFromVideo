@@ -1,2 +1,5 @@
-python-telegram-bot==20.5
+python-telegram-bot==20.0
 moviepy==1.0.3
+pydub==0.25.1
+SpeechRecognition==3.9.0
+ffmpeg-python==0.2.0
