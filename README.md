@@ -1,1 +1,3 @@
 # botAudioFromVideo
+#Важно установить ffmpeg
+
